@@ -57,10 +57,11 @@ class BackEnd {
 }
 ```
 ## 📈 Статистика
-![статистика стэка](http://github-readme-streak-stats.herokuapp.com?user=ileztom&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-![статистика GitHub](https://github-readme-stats.vercel.app/api?username=ileztom&show_icons=true&theme=radical)
-![статистика языков](https://github-readme-stats.vercel.app/api/top-langs/?username=ileztom&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/)
-
+<div align="center">
+  ![Статистика стэка](http://github-readme-streak-stats.herokuapp.com?user=ileztom&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+  ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ileztom&show_icons=true&theme=radical)
+  ![Статистика языков](https://github-readme-stats.vercel.app/api/top-langs/?username=ileztom&layout=compact&langs_count=7&theme=tokyonight&hide_border=true)
+</div>
 
 <!--
 
