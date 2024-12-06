@@ -1,6 +1,7 @@
 # Привет, меня зовут Илья 👋
 
 ## О себе
+```java
 public class NickNameYouTuber {
     public static void main(String[] args) {
         Technologies technologies = new Technologies();
@@ -54,6 +55,7 @@ class BackEnd {
         System.out.println("Databases: " + String.join(", ", databases));
     }
 }
+```
 
 <!--
 
