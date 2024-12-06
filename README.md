@@ -57,7 +57,7 @@ class BackEnd {
 }
 ```
 ## 📈 Статистика
-![Твоя статистика GitHub](https://github-readme-stats.vercel.app/api?username=ТвойUsername&show_icons=true&theme=radical)
+![Твоя статистика GitHub](https://github-readme-stats.vercel.app/api?username=ileztom&show_icons=true&theme=radical)
 
 
 <!--
