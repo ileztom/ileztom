@@ -1,6 +1,6 @@
 # Привет, меня зовут Илья 👋
 
-## О себе
+## ✍️ О себе
 ```java
 public class NickNameYouTuber {
     public static void main(String[] args) {
@@ -57,7 +57,8 @@ class BackEnd {
 }
 ```
 ## 📈 Статистика
-![Твоя статистика GitHub](https://github-readme-stats.vercel.app/api?username=ileztom&show_icons=true&theme=radical)
+![статистика GitHub](https://github-readme-stats.vercel.app/api?username=ileztom&show_icons=true&theme=radical)
+![статистика языков](https://github-readme-stats.vercel.app/api/top-langs/?username=ileztom&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/)
 
 
 <!--
