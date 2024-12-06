@@ -57,6 +57,7 @@ class BackEnd {
 }
 ```
 ## 📈 Статистика
+![статистика стэка](https://github-readme-stats.vercel.app/api?username=ileztom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/)
 ![статистика GitHub](https://github-readme-stats.vercel.app/api?username=ileztom&show_icons=true&theme=radical)
 ![статистика языков](https://github-readme-stats.vercel.app/api/top-langs/?username=ileztom&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/)
 
