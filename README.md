@@ -57,7 +57,7 @@ class BackEnd {
 }
 ```
 ## 📈 Статистика
-![статистика стэка](https://github-readme-stats.vercel.app/api?username=ileztom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/)
+![статистика стэка](http://github-readme-streak-stats.herokuapp.com?user=ileztom&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 ![статистика GitHub](https://github-readme-stats.vercel.app/api?username=ileztom&show_icons=true&theme=radical)
 ![статистика языков](https://github-readme-stats.vercel.app/api/top-langs/?username=ileztom&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/)
 
@@ -71,9 +71,6 @@ class BackEnd {
 
 ## 🌱 В настоящее время изучаю
 - [перечисли технологии или темы, которые ты изучаешь в данный момент]
-
-## 📈 Статистика
-![Твоя статистика GitHub](https://github-readme-stats.vercel.app/api?username=ТвойUsername&show_icons=true&theme=radical)
 
 ## 📝 Мои последние проекты
 - [Проект 1](ссылка на проект 1) - Краткое описание проекта.
