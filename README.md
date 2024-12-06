@@ -59,7 +59,9 @@ class BackEnd {
 ## 📈 Статистика GitHub
 <div align="center">
     <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=ileztom&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ileztom&show_icons=true&theme=radical"/>
+        <div align="center">
+            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ileztom&show_icons=true&theme=radical"/>
+        </div>
 </div>
 
 <div align="center">
