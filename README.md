@@ -66,8 +66,18 @@ class BackEnd {
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ileztom&show_icons=true&theme=radical"/>
 </div>
 ## 🔧 Технологии и инструменты
-![Java](https://www.flaticon.com/ru/free-icon/java_3291669?term=java&page=1&position=2&origin=search&related_id=3291669)
-
+<div align="center">
+    ![Java]()
+    ![JavaScript]()
+    ![Python]()
+    ![C#]()
+    ![POSTGRES]()
+    ![MySQL]()
+    ![]()
+    ![]()
+    ![]()
+    ![]()
+</div>
 
 
 
