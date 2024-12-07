@@ -67,7 +67,7 @@ class BackEnd {
 </div>
 ## 🔧 Технологии и инструменты
 <div align="center">
-    ![Java](https://www.flaticon.com/ru/free-icon/java-script_8240807)
+    <img height="180em" src="https://www.flaticon.com/ru/free-icon/java-script_8240807"/>
     ![C#]()
     ![]()
     ![]()
