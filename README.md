@@ -67,7 +67,7 @@ class BackEnd {
 </div>
 ## 🔧 Технологии и инструменты
 <div align="center">
-    <img height="180em" src="https://www.flaticon.com/ru/free-icon/java-script_8240807"/>
+    <img height="180em" src="https://www.google.com/imgres?q=%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B8%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%BE%D0%B2%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20java&imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F785%2F145%2Fpng-transparent-java-development-kit-software-development-kit-computer-programming-computer-icons-programming-language-icon-text-logo-computer-programming.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fru%2Ffree-png-yjemi&docid=dl2luhEIqcZqKM&tbnid=RZbVHlspE_rZWM&vet=12ahUKEwiOmbbgj5WKAxUjHRAIHZC_CAsQM3oECBUQAA..i&w=920&h=518&hcb=2&ved=2ahUKEwiOmbbgj5WKAxUjHRAIHZC_CAsQM3oECBUQAA"/>
     ![C#]()
     ![]()
     ![]()
