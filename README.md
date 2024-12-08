@@ -74,6 +74,14 @@ class BackEnd {
 </div>
 -->
 
+## 📝 Избранные проекты
+<div align="center">
+  <a href="https://github.com/ileztom/Apache-Logs-Aggregator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ileztom&repo=Apache Logs Aggregator&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+
 - Java 
 - JavaScript
 - Python
@@ -87,12 +95,7 @@ class BackEnd {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ileztom&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
-<!--
-## 📝 Мои последние проекты
-- [Проект 1](ссылка на проект 1) - Краткое описание проекта.
-- [Проект 2](ссылка на проект 2) - Краткое описание проекта.
 
--->
 
 <!--
 **ileztom/ileztom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
