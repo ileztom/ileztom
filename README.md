@@ -67,12 +67,12 @@ class BackEnd {
 </div>
 
 ## 🔧 Технологии и инструменты
-![Java](https://github.com/user-attachments/assets/9a02072d-7d7c-4ce0-8618-087ec55e71ae)
-
+<!--
 <div align="center">
     ![Java](https://github.com/user-attachments/assets/9a02072d-7d7c-4ce0-8618-087ec55e71ae)
     
 </div>
+-->
 
 - Java 
 - JavaScript
