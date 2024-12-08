@@ -86,6 +86,9 @@ class BackEnd {
 <!--
 
 ## ✅ Активность
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ileztom&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
 
 
 ## 📝 Мои последние проекты
