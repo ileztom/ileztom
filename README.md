@@ -68,16 +68,12 @@ class BackEnd {
 
 ## 🔧 Технологии и инструменты
 <div align="center">
-    ![Java]()
+    ![Java](https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Java_logo.svg#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Java_logo.svg)
     ![JavaScript]()
     ![Python]()
     ![C#]()
     ![POSTGRES]()
     ![MySQL]()
-    ![]()
-    ![]()
-    ![]()
-    ![]()
 </div>
 
 
