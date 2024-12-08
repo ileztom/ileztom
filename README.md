@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/214c4c2e-f9b6-4479-a0f9-d4f90dc4f250)# Привет, меня зовут Илья 👋
+# Привет, меня зовут Илья 👋
 
 ## ✍️ О себе
 ```java
@@ -69,7 +69,7 @@ class BackEnd {
 ## 🔧 Технологии и инструменты
 <!--
 <div align="center">
-    ![Java]()
+    ![Java](https://github.com/user-attachments/assets/9a02072d-7d7c-4ce0-8618-087ec55e71ae)
     ![JavaScript]()
     ![Python]()
     ![C#]()
