@@ -77,7 +77,7 @@ class BackEnd {
 ## 📝 Избранные проекты
 <div align="center">
   <a href="https://github.com/ileztom/Apache-Logs-Aggregator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ileztom&repo=Apache Logs Aggregator&theme=tokyonight&hide_border=true" />
+    <img align="center" src="![image](https://github.com/user-attachments/assets/83c7a4f5-30af-4f92-9813-c17a7126cd60)" />
   </a>
 </div>
 
