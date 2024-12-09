@@ -74,14 +74,6 @@ class BackEnd {
 </div>
 -->
 
-## 📝 Избранные проекты
-<div align="center">
-  <a href="https://github.com/ileztom/Apache-Logs-Aggregator">
-    <img align="center" src="https://github.com/user-attachments/assets/83c7a4f5-30af-4f92-9813-c17a7126cd60" />
-  </a>
-</div>
-
-
 - Java 
 - JavaScript
 - Python
@@ -89,6 +81,13 @@ class BackEnd {
 - Postgres
 - MySQL
 - HTML/CSS
+
+## 📝 Избранные проекты
+<div align="center">
+  <a href="https://github.com/ileztom/Apache-Logs-Aggregator">
+    <img align="center" src="https://github.com/user-attachments/assets/83c7a4f5-30af-4f92-9813-c17a7126cd60" />
+  </a>
+</div>
 
 ## ✅ Активность
 <div align="center">
