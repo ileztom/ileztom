@@ -2,7 +2,7 @@
 
 ## ✍️ О себе
 ```java
-public class NickNameYouTuber {
+public class Ileztom {
     public static void main(String[] args) {
         Technologies technologies = new Technologies();
         technologies.frontEnd = new FrontEnd();
