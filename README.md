@@ -1,112 +1,159 @@
-# Привет, меня зовут Илья 👋
+<div align="center">
 
-## ✍️ О себе
-```java
-public class Ileztom {
-    public static void main(String[] args) {
-        Technologies technologies = new Technologies();
-        technologies.frontEnd = new FrontEnd();
-        technologies.backEnd = new BackEnd();
-        technologies.devOps = new String[]{"Docker", "Kubernetes"};
-        technologies.mobile = new String[]{"Android"};
+<!-- ═══════════════ ANIMATED TYPING HEADER ═══════════════ -->
 
-        System.out.println("Current Focus: Создание масштабируемых full-stack приложений");
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=100&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=120&lines=Hey+%F0%9F%91%8B%2C+I'm+ileztom;Full+Stack+Developer;Building+products+that+matter+%F0%9F%9A%80)](https://github.com/ileztom)
 
-        technologies.displayTechnologies();
-    }
-}
+<!-- ═══════════════ ABOUT ME ═══════════════ -->
 
-class Technologies {
-    FrontEnd frontEnd;
-    BackEnd backEnd;
-    String[] devOps;
-    String[] mobile;
+### 👨‍💻 About Me
 
-    void displayTechnologies() {
-        System.out.println("\nFront-End Technologies:");
-        frontEnd.displayFrontEnd();
-
-        System.out.println("\nBack-End Technologies:");
-        backEnd.displayBackEnd();
-
-        System.out.println("\nDevOps Tools: " + String.join(", ", devOps));
-        System.out.println("Mobile Technologies: " + String.join(", ", mobile));
-    }
-}
-
-class FrontEnd {
-    String[] js = {"React", "Next.js"};
-    String[] css = {"Tailwind", "Bootstrap", "SASS"};
-
-    void displayFrontEnd() {
-        System.out.println("JavaScript Frameworks: " + String.join(", ", js));
-        System.out.println("CSS Frameworks: " + String.join(", ", css));
-    }
-}
-
-class BackEnd {
-    String[] java = {"Spring", "Spring Boot"};
-    String[] python = {"Django", "FastAPI"};
-    String[] databases = {"PostgreSQL", "MySQL", "MongoDB"};
-
-    void displayBackEnd() {
-        System.out.println("Java Frameworks: " + String.join(", ", java));
-        System.out.println("Python Frameworks: " + String.join(", ", python));
-        System.out.println("Databases: " + String.join(", ", databases));
-    }
-}
+```yaml
+name: Ilya
+role: Full Stack Developer
+experience: 3+ years
+location: Moscow, Russia 🇷🇺
+stack: Java + React
+focus:
+  - High-load systems
+  - Consumer products
+  - Scalable architecture
+website: moscilez.com
+status: Open for opportunities
 ```
-## 📈 Статистика GitHub
-<div align="center">
-    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=ileztom&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ileztom&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-</div>
 
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ileztom&show_icons=true&theme=radical"/>
-</div>
+---
 
-## 🔧 Технологии и инструменты
-<!--
-<div align="center">
-    ![Java](https://github.com/user-attachments/assets/9a02072d-7d7c-4ce0-8618-087ec55e71ae)
-    
-</div>
+<!-- ═══════════════ TROPHIES ═══════════════ -->
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ileztom&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+<!-- ═══════════════ GITHUB STATS ═══════════════ -->
+
+### 📊 GitHub Stats
+
+<!-- Streak -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=ileztom&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://github.com/ileztom)
+
+<br>
+
+<!-- Stats + Languages side by side -->
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ileztom&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&rank_icon=github" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ileztom&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" />
+</p>
+
+<!-- Profile Summary Cards (более стабильный сервис) -->
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ileztom&theme=tokyonight)](https://github.com/ileztom)
+
+---
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+
+### 🛠️ Tech Stack
+
+#### Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+#### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+#### IDE & Tools
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+---
+
+<!-- ═══════════════ ACTIVITY GRAPH ═══════════════ -->
+
+### 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ileztom&theme=tokyo-night&hide_border=true&border_radius=10&area=true)](https://github.com/ileztom)
+
+---
+
+<!-- ═══════════════ SNAKE ═══════════════ -->
+
+<!-- 
+  🐍 Чтобы змейка заработала, создай файл:
+  .github/workflows/snake.yml
+  с содержимым ниже и запусти Action вручную:
+
+  name: Generate Snake
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: ileztom
+            outputs: |
+              dist/github-snake.svg
+              dist/github-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3.1.0
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 -->
 
-- Java 
-- JavaScript
-- Python
-- C#
-- Postgres
-- MySQL
-- HTML/CSS
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ileztom/ileztom/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ileztom/ileztom/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ileztom/ileztom/output/github-snake-dark.svg" />
+</picture>
 
-## 📝 Избранные проекты
-<div align="center">
-  <a href="https://github.com/ileztom/Apache-Logs-Aggregator">
-    <img align="center" src="https://github.com/user-attachments/assets/83c7a4f5-30af-4f92-9813-c17a7126cd60" />
-  </a>
+---
+
+<!-- ═══════════════ CONNECT ═══════════════ -->
+
+### 🤝 Connect with me
+
+[![Website](https://img.shields.io/badge/🌐_moscilez.com-0d1117?style=for-the-badge)](https://moscilez.com/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moscilez)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ileztom)
+
+<br>
+
+<!-- ═══════════════ RANDOM QUOTE ═══════════════ -->
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 </div>
-
-## ✅ Активность
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ileztom&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
-
-
-<!--
-**ileztom/ileztom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
