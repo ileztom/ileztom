@@ -154,6 +154,7 @@ status: Open for opportunities
 
 <!-- ═══════════════ RANDOM QUOTE ═══════════════ -->
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20programmers%20are%20not%20marginally%20better%20than%20merely%20good%20ones.%20They%20are%20an%20order-of-magnitude%20better,%20measured%20by%20whatever%20standard:%20conceptual%20creativity,%20speed,%20ingenuity%20of%20design,%20or%20problem-solving%20ability.&author=Randall%20E.%20Stross
+)
 
 </div>
