@@ -2,7 +2,7 @@
 
 <!-- ═══════════════ ANIMATED TYPING HEADER ═══════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=120&lines=Hey+%F0%9F%91%8B%2C+I'm+ileztom;Full+Stack+Developer;Building+products+that+matter+%F0%9F%9A%80)](https://github.com/ileztom)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1500&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=120&lines=Hey+%F0%9F%91%8B%2C+I'm+ileztom;Full+Stack+Developer;Building+products+that+matter+%F0%9F%9A%80)](https://github.com/ileztom)
 
 <!-- ═══════════════ ABOUT ME ═══════════════ -->
 
