@@ -104,44 +104,6 @@ status: Open for opportunities
 
 ---
 
-<!-- ═══════════════ SNAKE ═══════════════ -->
-
-<!-- 
-  🐍 Чтобы змейка заработала, создай файл:
-  .github/workflows/snake.yml
-  с содержимым ниже и запусти Action вручную:
-
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: ileztom
-            outputs: |
-              dist/github-snake.svg
-              dist/github-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3.1.0
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ileztom/ileztom/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ileztom/ileztom/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ileztom/ileztom/output/github-snake-dark.svg" />
-</picture>
-
----
-
 <!-- ═══════════════ CONNECT ═══════════════ -->
 
 ### 🤝 Connect with me
