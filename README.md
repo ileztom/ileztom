@@ -28,7 +28,7 @@ status: Open for opportunities
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ileztom&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ileztom)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
