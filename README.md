@@ -13,7 +13,7 @@ name: Ilya
 role: Full Stack Developer
 experience: 3+ years
 location: Moscow, Russia 🇷🇺
-stack: Java + React
+stack: Java, Python, React, SQL
 focus:
   - High-load systems
   - Consumer products
