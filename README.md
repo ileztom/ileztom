@@ -24,14 +24,6 @@ status: Open for opportunities
 
 ---
 
-<!-- ═══════════════ TROPHIES ═══════════════ -->
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ileztom)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 <!-- ═══════════════ GITHUB STATS ═══════════════ -->
 
 ### 📊 GitHub Stats
