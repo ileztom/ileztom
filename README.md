@@ -88,14 +88,6 @@ status: Open for opportunities
 
 ---
 
-<!-- ═══════════════ ACTIVITY GRAPH ═══════════════ -->
-
-### 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ileztom&theme=tokyo-night&hide_border=true&border_radius=10&area=true)](https://github.com/ileztom)
-
----
-
 <!-- ═══════════════ CONNECT ═══════════════ -->
 
 ### 🤝 Connect with me
