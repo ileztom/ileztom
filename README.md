@@ -31,20 +31,6 @@ status: Open for opportunities
 <!-- Streak -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=ileztom&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://github.com/ileztom)
 
-<br>
-
-<!-- Stats + Languages side by side -->
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ileztom&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&rank_icon=github" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ileztom&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" />
-</p>
-
-<!-- Profile Summary Cards (более стабильный сервис) -->
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ileztom&theme=tokyonight)](https://github.com/ileztom)
-
----
-
 <!-- ═══════════════ TECH STACK ═══════════════ -->
 
 ### 🛠️ Tech Stack
